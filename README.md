@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Informatics student at Universitas Islam Indonesia with a passion for web development. Currently, I’m honing my skills as a web developer, but I’m also excited about transitioning into DevOps engineering. I’m eager to leverage my technical background and explore the dynamic field of DevOps.
+Hi! I'm Abdullah, a final year Informatics student at Universitas Islam Indonesia in Yogyakarta. I'm passionate about web development and data engineering, and I'm actively looking for internship opportunities to learn and grow in real-world projects. I am a fast learner and can handle multiple tasks efficiently at the same time.
 
 
 # 💻 Tech Stack:
